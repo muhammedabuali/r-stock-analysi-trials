@@ -4,7 +4,7 @@ notes for wednesday october 8th:-
 
 - I looked into dimensionality reduction and decided to try out princibal component analysis since it is fairly simple and easy to interpret.
 
-- after reading alittle about it through wikipedia I found an excellent youtube tutorials about PCA using R starting from the ground up.
+- after reading alittle about it through wikipedia I found an excellent youtube tutorials about PCA using R starting from the ground up. edit: link https://www.youtube.com/watch?v=5zk93CpKYhg
 
 - I made scripts to apply PCA on a data frame with only numeric columns and to draw colored pairs.
 
