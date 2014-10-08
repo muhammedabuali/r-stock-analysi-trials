@@ -1,0 +1,13 @@
+notes for wednesday october 8th:-
+
+- I collected data for palm hills company and egx 30 for the same dates and they are very close.
+
+- I looked into dimensionality reduction and decided to try out princibal component analysis since it is fairly simple and easy to interpret.
+
+- after reading alittle about it through wikipedia I found an excellent youtube tutorials about PCA using R starting from the ground up.
+
+- I made scripts to apply PCA on a data frame with only numeric columns and to draw colored pairs.
+
+- unfortunately the technique doesn't show interesting relationships. 
+
+- I suggest using different data and combining egx30 with palm
